@@ -1,2 +1,2 @@
 # pagina-scanners
-Landing page pra un emprendimiento con amigos
+Landing page para un emprendimiento con amigos
